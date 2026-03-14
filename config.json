@@ -1,0 +1,13 @@
+{
+  "COM_PORT": "COM10",
+  "BAUDRATE": 57600,
+  "WAVELOG_API_URL": "API_URL_FORM_WAVELOG",
+  "API_KEY": "API_KEY_FROM_WAVE_LOG",
+  "RADIO_NAME": "SDR-Console",
+  "prop_mode": "SAT",
+  "sat_name": "QO-100",
+  "sat_mode": "S/X",
+  "SAT_RXTX_OFFSET_HZ": 8089500000,
+  "POLL_INTERVAL": 1.0,
+  "power": 10
+}
