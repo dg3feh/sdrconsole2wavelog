@@ -1,0 +1,1 @@
+The connection of the SDR Console via TS2000 emulation and WaveLogGate never worked stably for me. Therefore, I wrote a small script that transfers the SDR Console data directly to Wavelog via the API. Particular attention was paid to operation via the QO-100 satellite using ADALM Pluto. TX/TX offset, output power, etc. can be defined in the configuration.
